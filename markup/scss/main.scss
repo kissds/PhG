@@ -30,7 +30,10 @@ $media-expressions: (
 @import 'base/typography';
 @import 'base/forms';
 
+@import 'layout/header';
+
 #wrapper {
   position: relative;
   max-width: 1000px;
+  overflow: hidden;
 }

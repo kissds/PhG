@@ -506,5 +506,6 @@ input[type='submit'] {
 
 #wrapper {
   position: relative;
-  max-width: 1000px; }
+  max-width: 1000px;
+  overflow: hidden; }
 /*# sourceMappingURL=main.css.map */
