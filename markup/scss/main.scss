@@ -31,5 +31,6 @@ $media-expressions: (
 @import 'base/forms';
 
 #wrapper {
+  position: relative;
   max-width: 1000px;
 }
